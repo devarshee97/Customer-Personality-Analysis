@@ -1,2 +1,2 @@
 # Customer-Personality-Analysis
-A customer database is analysed and clustered into different groups
+The objective in this project is to understand the customer database of a particular marketing campaign, under the domain of unsupervised learning. It is imperative that markets have a thororugh understanding of their customer and take strategic decisions considering the different groups of customer. Thus, the end goal of this study is to obtain the different groups of customer
